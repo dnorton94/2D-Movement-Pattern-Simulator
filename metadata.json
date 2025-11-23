@@ -1,0 +1,5 @@
+{
+  "name": "Movement Pattern Simulator",
+  "description": "2D Fencing Movement Simulator on a 10m x 10m grid.",
+  "requestFramePermissions": []
+}
